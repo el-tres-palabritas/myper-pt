@@ -10,9 +10,6 @@ import Toolbar from 'primevue/toolbar'
           <img src="@/assets/myper.png" alt="MYPER Software Logo" width="150px">
         </div>
       </template>
-      <template #end>
-        
-      </template>
     </Toolbar>
   </div>
 </template>
